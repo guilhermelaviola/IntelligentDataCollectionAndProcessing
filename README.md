@@ -1,4 +1,4 @@
-# IntelligentDataCollectionAndProcessing
+# Intelligent Data Collection & Processing
 My school homework from **#DescomplicaDigital** on Intelligent Data Collection and Processing. A database system relies on solid database design, beginning with conceptual modeling and progressing to relational modeling to structure data effectively. After the necessary tools are installed, developers apply the principles of the SQL language to build and query databases, using features such as complex SQL queries, sorting, grouping, and security mechanisms. In a complete project, SQL is complemented by PL/SQL techniques, which include decision and repetition commands, the creation of procedures, functions, and packages, and the seamless integration of SQL with PL/SQL. Advanced functionalities such as triggers and the use of implicit and explicit cursors enable automation, control, and efficient data manipulation within the database environment.
 
 
